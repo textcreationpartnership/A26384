@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address given in to the late King James, by the titular Archbishop of Dublin from the General meeting of the Romish bishops and clergy of Ireland, held in May last, by that Kings order : wherein several things relating to the popish designs upon these three kingdoms are discovered : the original whereof was  found in the late King James closet, in the Castle of Dublin, at his leaving that city and the copy whereof was found in the titular Archbishop's : lodgings : now published with reflection on each paragraph.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26384</idno>
+            <idno type="STC">Wing A542</idno>
+            <idno type="STC">ESTC R216298</idno>
+            <idno type="EEBO-CITATION">12226465</idno>
+            <idno type="OCLC">ocm 12226465</idno>
+            <idno type="VID">56526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 621:7 or 2215:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An address given in to the late King James, by the titular Archbishop of Dublin from the General meeting of the Romish bishops and clergy of Ireland, held in May last, by that Kings order : wherein several things relating to the popish designs upon these three kingdoms are discovered : the original whereof was  found in the late King James closet, in the Castle of Dublin, at his leaving that city and the copy whereof was found in the titular Archbishop's : lodgings : now published with reflection on each paragraph.</title>
+                  <author>Russell, Patrick, 1629-1692.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 34.</note>
+                  <note>Item at reel 2215:11 identified as Wing R2346A (number cancelled).</note>
+                  <note>Reproduction of original in Bodleian Library and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56526:1" rendition="simple:additions"/>
+            <p>AN ADDRESS Given in to the <hi>Late King Iames,</hi> BY THE TITULAR ARCHBISHOP OF DUBLIN: FROM The General Meeting of the <hi>Romiſh</hi> Biſhops and Clergy of <hi>Ireland,</hi> held in <hi>May</hi> laſt, by that King's Order.</p>
+            <p>Wherein ſeveral Things relating to the <hi>Popiſh</hi> Deſigns upon theſe Three Kingdoms, are diſcovered.</p>
+            <p>The Original whereof was found in the late King <hi>James</hi>'s Cloſet, in the Caſtle of <hi>Dublin,</hi> at his leaving that City: And the Copy whereof was found in the Titular Archbiſhop's Lodgings.</p>
+            <p>
+               <hi>Now Publiſh'd with Reflections on each Paragraph.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Baldwin,</hi> in the <hi>Old Baily.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56526:2"/>
+            <pb n="1" facs="tcp:56526:2"/>
+            <head>THE MEMORIAL GIVEN IN To the Late King <hi>JAMES,</hi> BY THE Titular Archbiſhop of <hi>Dublin,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the late King <hi>James</hi> was induc'd by the <hi>Emiſſaries</hi> of <hi>Rome,</hi> to trample upon the Laws and Liberties of the Sub<g ref="char:EOLhyphen"/>jects of theſe Three King<g ref="char:EOLhyphen"/>doms, there is no body who enjoys the uſe of their Reaſon, can de<g ref="char:EOLhyphen"/>ny. But tho we felt every day new Invaſi<g ref="char:EOLhyphen"/>ons made upon our Religion by the ſame Party of men under the Covert of the <hi>Royal Power and Prerogative</hi> (as they call'd it); yet
+<pb n="2" facs="tcp:56526:3"/>
+there are to this very day, a certain incredu<g ref="char:EOLhyphen"/>lous ſort of men, who have the folly to tell us, <hi>That King</hi> James <hi>had never the leaſt Deſign to alter the Religion of theſe Kingdoms, or to in<g ref="char:EOLhyphen"/>troduce Popery.</hi>
+            </p>
+            <p>Among a Thouſand Inſtances to prove that King <hi>James</hi>'s great Deſign was <hi>the utter extir<g ref="char:EOLhyphen"/>pation of the Proteſtant Religion, and the Reſtitu<g ref="char:EOLhyphen"/>tion</hi> (as the Papiſts call it) <hi>of the Catholick one,</hi> There has of late <hi>one</hi> come to light, which ſets the Affair in a Meridian light, beyond all poſſibility of doubting; which Inſtance, and the occaſion of its coming to be known, is as follows.</p>
+            <p>The Late King upon his arrival in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> from <hi>France,</hi> did make as conſidera<g ref="char:EOLhyphen"/>ble Steps to overturn the Proteſtant Religion and Intereſt in that Kingdom, as the ſhort time he was there, and the <hi>Decorum</hi> he was to carry towards the few Proteſtants who ad<g ref="char:EOLhyphen"/>her'd to him, could poſſibly admit of. A great many Laws made for the ſafety of the <hi>Engliſh</hi> Proteſtants, and for keeping out the <hi>Iriſh</hi> from the poſſeſſions they had by ſo ma<g ref="char:EOLhyphen"/>ny Rebellions juſtly forfaulted, were reſcin<g ref="char:EOLhyphen"/>ded: And, which was next to giving the
+<pb n="3" facs="tcp:56526:3"/>
+final Blow to the Proteſtant Intereſt in that Kingdom, King <hi>James,</hi> in his <hi>Iriſh</hi> pretended Parliament, had formally removed the Fun<g ref="char:EOLhyphen"/>damental <hi>Charter,</hi> by which the Proteſtants poſſeſt their Eſtates; I mean, the Act of Parliament of <hi>Ireland,</hi> called, <hi>The Act of Set<g ref="char:EOLhyphen"/>tlement:</hi> So it ſeem'd, there wanted ſcarce any more to be done, to reſtore Popery and Papiſts for good and all in <hi>Ireland.</hi>
+            </p>
+            <p>But all this was not able to ſatisfie the <hi>fiery Zealots</hi> of the Church of <hi>Rome,</hi> whom nothing could pleaſe, but <hi>a thorough work,</hi> as they named it. The <hi>Iriſh Popiſh Biſhops</hi> meet together in the <hi>Titular Archbiſhop of</hi> Dublin<hi>'s Lodgings;</hi> and with them, <hi>The Provincials of all the Religious Orders:</hi> And having unani<g ref="char:EOLhyphen"/>mouſly agreed to the following <hi>Addreſs</hi> or <hi>Memorial</hi> to be preſented to the late King, then in <hi>Dublin,</hi> they preſent it to him in a full Body. That King <hi>James</hi> received this <hi>Addreſs</hi> very kindly, was viſible in his man<g ref="char:EOLhyphen"/>ner of treating the Perſons that preſented it. He told them, <hi>They had never any reaſon to doubt of his Zeal for the Catholick Religion; and of his willingneſs to ſacrifice all that was dear to him upon that account.</hi> And that he would within a few days acquaint my <hi>Lord Archbi<g ref="char:EOLhyphen"/>ſhop
+<pb n="4" facs="tcp:56526:4"/>
+of Dublin,</hi> with his Reſolutions and An<g ref="char:EOLhyphen"/>ſwer to their Addreſs.</p>
+            <p>What Anſwer King <hi>James</hi> returned, we have not yet been able to learn. But the <hi>Memorial</hi> it ſelf was found in that King's <hi>Cloſet,</hi> after his leaving <hi>Dublin;</hi> and another Copy of the ſame, in the <hi>Archbiſhop</hi>'s <hi>Lodgings.</hi>
+            </p>
+            <p>The <hi>Memorial</hi> it ſelf deſerves to be here inſerted word by word, as it is in the <hi>Original</hi> found in King <hi>James</hi>'s Cloſet: And it may not be impertinent to make ſome ſhort Re<g ref="char:EOLhyphen"/>flections on each Paragraph, as they lye in order.</p>
+            <div type="memorial">
+               <head>The <hi>Memorial</hi> runs thus.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>AS we are very ſenſible of Your Maje<g ref="char:EOLhyphen"/>ſties Great Zeal to Eſtabliſh the Roman Catholick Religion in this Your King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> and own our ſelves extremely thankful and beholding to Your Majeſty for Your Gracious Declaration to us upon that Subject; So purſuant to Your Majeſties Directions and Encouragement, we herein moſt humbly offer the means that to us ſeem moſt efficacious for the due Accompliſhing thereof.</p>
+            </div>
+            <div type="reflections">
+               <pb n="5" facs="tcp:56526:4"/>
+               <head>REFLECTIONS.</head>
+               <p>Here is a fair acknowledgment of <hi>a De<g ref="char:EOLhyphen"/>ſign to eſtabliſh the Roman-Catholick Religion in Ireland,</hi> which they expreſly ſay, <hi>King</hi> James <hi>had declared to them,</hi> and had previous thereto <hi>given them Directions and Incouragement about it.</hi> One would think, The <hi>Titular Archbiſhop of Dublin,</hi> and the reſt of the <hi>Gang,</hi> needed few Directions to go about ſo meritorious a Work as the Eſtabliſhment of the Catholick Religion: But it ſeems King <hi>James</hi> his Zeal has outgone even <hi>theirs</hi> in this point. He has not only <hi>given them Directions about it,</hi> but <hi>incourag'd them in it.</hi> And we know the word <hi>Incouragement,</hi> is a very entenſive one; as including not only <hi>promiſes to aſſiſt, but means and power to bring about.</hi> And we have no reaſon to doubt, but King <hi>James,</hi> though he thought not himſelf oblig'd to keep his word ſo often given to <hi>Engliſh</hi> Hereticks; yet He would not fail to merit Heaven, by keep<g ref="char:EOLhyphen"/>ing firm with thoſe People He imagin'd had power to lock Heaven againſt him in caſe of a failure. And here by the by, I think it but juſt, His Confeſſor ſhould ab<g ref="char:EOLhyphen"/>ſolve him from the obligation of his Promiſe
+<pb n="6" facs="tcp:56526:5"/>
+to the Titular Archbiſhop of <hi>Dublin,</hi> and the reſt of them, ſince the entire Ruine of his Affairs in <hi>Ireland,</hi> has put him out of capa<g ref="char:EOLhyphen"/>city to keep his word to them.</p>
+            </div>
+            <div type="memorial">
+               <head>MEMORIAL.</head>
+               <p>
+                  <hi>Imprimis,</hi> The uſual and right Method for to compaſs any End or Deſign, is firſt of all to remove the Chief Obſtacles that offer thereunto; Wherefore, inaſmuch as the Pe<g ref="char:EOLhyphen"/>nal Laws, particularly the Statute of Vni<g ref="char:EOLhyphen"/>formity, and other like, were originally de<g ref="char:EOLhyphen"/>viſed and enacted to aboliſh the Roman-Ca<g ref="char:EOLhyphen"/>tholick Religion, and ſtill continue to be the main hindrance of its advancement; We humbly conceive that to re-eſtabliſh the ſame Roman-Catholick Religion in this Kingdom, as Your Majeſty graciouſly in<g ref="char:EOLhyphen"/>tends, it is in all Conſcience and Iuſtice an Act of indiſpenſible neceſſity to repeal thoſe aforeſaid Penal Laws ſo throughly repug<g ref="char:EOLhyphen"/>nant to the Honour and true Worſhip of God, and to the Salvation of Souls.</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>What a Barrier the <hi>Penal Laws</hi> are againſt Popery here, the Papiſts themſelves do wit<g ref="char:EOLhyphen"/>neſs;
+<pb n="7" facs="tcp:56526:5"/>
+And what an <hi>Eye-ſore</hi> they are to them, they fairly enough inſinuate by their ear<g ref="char:EOLhyphen"/>neſtneſs with King <hi>James,</hi> in this Paragraph, to <hi>have them Repeal'd.</hi> Here it is we have reaſon to admire and praiſe the wiſe and happy Conduct of the Church of <hi>England</hi> in the late Reign, who would not be impos'd upon to take off theſe Laws, which the Pa<g ref="char:EOLhyphen"/>piſts as well as they, knew to be a <hi>firm bar<g ref="char:EOLhyphen"/>rier</hi> againſt Popery, and a ſure fence for ſe<g ref="char:EOLhyphen"/>curing the Proteſtant Religion; Whatever other gloſſes were put upon them by ſome of that time. This does ſufficiently free that Church from the imputation of <hi>wilfulneſs</hi> and <hi>moroſeneſs</hi> thrown upon them by their Enemies upon the account of their Refuſal in this matter: ſince the Papiſts themſelves acknowledge in the above-mentioned Para<g ref="char:EOLhyphen"/>graph, That <hi>theſe Laws were originally enacted to aboliſh the Roman-Catholick Religion, and to be the main hinderance of its advancement.</hi> And indeed they muſt have been very blind, that did not ſee through the Deſigns of the late Reign, in their Intriegues of repealing theſe Laws: And it were a great Reflection up<g ref="char:EOLhyphen"/>on the Wiſdom of the <hi>Diſſenters,</hi> to think they had any other thoughts of the Court-Deſigns
+<pb n="8" facs="tcp:56526:6"/>
+at that time, or that they could be brought to imagine, there was any real kindneſs meant towards them, either in the Toleration granted them, or in the Inſinu<g ref="char:EOLhyphen"/>ations made them to take off the Penal Laws. For there was no Party of men more odious to the Papiſts, than the <hi>Diſſen<g ref="char:EOLhyphen"/>ters,</hi> notwithſtanding of all the Careſſes made them, merely to juggle them into their own Ruine, and the Ruine of the Church of <hi>England.</hi>
+               </p>
+            </div>
+            <div type="memorial">
+               <head>MEMORIAL.</head>
+               <p n="2">
+                  <hi>IIdly,</hi> Whereas Almighty God of his Di<g ref="char:EOLhyphen"/>vine Providence has placed Biſhops in his Church, bought and redeemed by the Price of his moſt Precious Blood, for to rule and govern the ſame, and for to enlighten the People into the true and only way of Sal<g ref="char:EOLhyphen"/>vation, as is apparent in Holy Writ; It followeth by an unavoidable conſequence, that it is not only conducive, but alſo abſo<g ref="char:EOLhyphen"/>lutely requiſite for the eſtabliſhment of this Roman-Catholick Church in its due luſtre and decorum in this Kingdom; That the Prelates and other Clergy thereof, be reſtored to their Livings, Churches, and full exer<g ref="char:EOLhyphen"/>ciſe
+<pb n="9" facs="tcp:56526:6"/>
+of their Eccleſiaſtical Iuriſdiction, with<g ref="char:EOLhyphen"/>out which it is not to be expected that they can prevail to repreſs the Vices moſt ſwaying in this Age, and make the Chriſtians improve themſelves with more ſerious application in the obſervance of God's Law, and in the wholſome practice of Piety and Virtue: For we find by Experience, that the People now-a-days, generally ſpeaking, will not much heed or regard the Exhortations or Threat<g ref="char:EOLhyphen"/>nings of their Ghoſtly Directors, when they ſee them reduced to ſo low an ebb of Indi<g ref="char:EOLhyphen"/>gence, as to depend of themſelves for their ſpiritual Power and Authority.</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>In the laſt Reign we were induſtriouſly told over and over again, by the Late King's <hi>Emiſſaries,</hi> That there was never any thing of a Deſign to invade the Livings or Reve<g ref="char:EOLhyphen"/>nues of the Church, or of applying of them to any body elſe, but thoſe of the Church of <hi>England.</hi> Here the Mask is taken off, and the true Deſign of appropriating the Reve<g ref="char:EOLhyphen"/>nues of the Church, to <hi>the uſe of the Roman-Catholicks</hi> alone, is downright confeſt. This was really deſign'd long before: And we had
+<pb n="10" facs="tcp:56526:7"/>
+                  <hi>Biſhops</hi> conſecrated by the Pope, for almoſt all the <hi>Biſhopricks</hi> of <hi>England</hi> and <hi>Ireland:</hi> But the Affair was not ripe enough to inſtall them in their <hi>Livings.</hi> Theſe Biſhops by the <hi>Canon-Law,</hi> and by the acknowledgment of all the Lawyers of <hi>Rome, Had an undoubted legal Right to the Revenues of their Titular Bi<g ref="char:EOLhyphen"/>ſhopricks, and that immediately upon their being nominated by the Pope:</hi> Likeas the Proteſtant Biſhops were but Uſurpers and illegal Poſ<g ref="char:EOLhyphen"/>ſeſſors of thoſe Revenues, if we believe <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Caſuiſts. Now they put King <hi>James</hi> in mind of <hi>his gracious Declaration to them upon that Subject;</hi> And they muſt have their Foot in, and the new Poſſeſſors (as they take the Proteſtants to be) muſt be ſet a packing for good and all. At the end of this Paragraph, our <hi>Iriſh Biſhops</hi> and <hi>Provincials,</hi> do formally contradict their ſo much cry'd-up <hi>Vow of Po<g ref="char:EOLhyphen"/>venty;</hi> And tell us plainly, That <hi>the People will not have regard to the Advices of their Ghoſtly Dire<g ref="char:EOLhyphen"/>ctors, when they ſee them reduc'd to ſo low an ebb of indigence, as to depend of themſelves for their ſpiritual Power and Authority.</hi> Here they plainly inſinuate, that <hi>Poverty</hi> is obſtructive of <hi>the Peoples profiting by their directions;</hi> And thence it is, They muſt have the Livings of the
+<pb n="11" facs="tcp:56526:7" rendition="simple:additions"/>
+Clergy reſtor'd to them, to give a greater luſtre to <hi>their ſpiritual Power and Authority.</hi> At this rate, the Clergy of the firſt <hi>three Centu<g ref="char:EOLhyphen"/>ries,</hi> and the <hi>Mendicant Orders</hi> of their own Church of <hi>Rome,</hi> muſt have very little ſuc<g ref="char:EOLhyphen"/>ceſs in their Miniſterial Functions, ſince they of old did abſolutely depend, and theſe new Orders do yet, upon the ſole Charity of the People.</p>
+            </div>
+            <div type="memorial">
+               <head>MEMORIAL.</head>
+               <p n="3">
+                  <hi>IIIdly,</hi> Though it may, perhaps, ſeem to ſome Politicks, that this Reſtoring the Ro<g ref="char:EOLhyphen"/>man-Catholick Religion and Clergy here to their Livings, Churches, Iuriſdiction and Privileges, may be inconſiſtent at preſent with the Proſpect of Your Majeſty's Affairs in <hi>England,</hi> and may alienate the Affections of the Proteſtants there, from giving a help<g ref="char:EOLhyphen"/>ing hand, as may be expected, towards Your Majeſty's Reſtauration; yet, with ſubmiſ<g ref="char:EOLhyphen"/>ſion, we conceive that this Objection carries more ſeeming than ſolid Reaſon; for when did it ever prove ſucceſsful to Your Majeſty, or to any of Your Royal Predeceſſors, ſo far to humour the Proteſtants of <hi>England</hi> in Con<g ref="char:EOLhyphen"/>cerns of this nature relating to the Glory of
+<pb n="12" facs="tcp:56526:8" rendition="simple:additions"/>
+God, and good of Souls? What return did they make in theſe latter times to Your Ma<g ref="char:EOLhyphen"/>jeſty's manifold Condeſcentions and Indul<g ref="char:EOLhyphen"/>gences to them? Did not they, even their Chief Clergy, bring in Foreign Power to in<g ref="char:EOLhyphen"/>vade Your Throne, without regarding the Loyalty and Allegiance they ſwore unto You? Moreover, if thoſe Proteſtants, Laity and Clergy of <hi>England,</hi> or any of them, be now turn'd really Loyal, and well-affected to Your Majeſty; ſurely they will not in any reaſon be diſpleaſed, or grudge, that in this Your Catholick Kingdom, always Loyal, Your Majeſty ſhould eſtabliſh, as aforeſaid, the Roman Religion, as alſo the Clergy thereof, who always preach and teach Loy<g ref="char:EOLhyphen"/>alty and Obedience to their King, to be an eſſential Maxim of the Religion and Law of God. Neither will the ſaid Proteſtants upon that conſideration of Your Majeſty's Graci<g ref="char:EOLhyphen"/>ous Reſtoring the Roman-Catholick Religi<g ref="char:EOLhyphen"/>on and Clergy as deſired, flinch off, or deſiſt from co-operating to Your Majeſty's Reſtau<g ref="char:EOLhyphen"/>ration, no more than the <hi>Iriſh</hi> Roman-Catho<g ref="char:EOLhyphen"/>licks have done, when deprived of their E<g ref="char:EOLhyphen"/>ſtates, and brought under ſevere Laws a<g ref="char:EOLhyphen"/>gainſt their Religion, yet always kept touch to their Loyalty and Allegiance in defending
+<pb n="13" facs="tcp:56526:8"/>
+Your Majeſties Cauſe. On the other ſide, if the ſaid Proteſtants be not ſincerely Loy<g ref="char:EOLhyphen"/>al, but only Act for their own Temporal In<g ref="char:EOLhyphen"/>tereſt under the pretext of Religion, in their uſual manner, how can Your Majeſty much rely upon their aſſiſtance, or after Your Re<g ref="char:EOLhyphen"/>ſtoration, (which God ſend ſoon and happy) expect that they will give You any way, but rather all imaginable hindrance to eſtabliſh, as you purpoſe, the <hi>Roman</hi>-Catholick Religi<g ref="char:EOLhyphen"/>on and Clergy, in this Your Kingdom of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> in that full manner aforeſaid?</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>Here, in the beginning of this Paragraph, we have fairly inſinuated, the true Reaſons <hi>why King</hi> James <hi>did not reſtore,</hi> when upon the <hi>Engliſh</hi> Throne, <hi>the Roman Catholick Religi<g ref="char:EOLhyphen"/>on, and the Clergy, to their Livings, Churches, Juriſ<g ref="char:EOLhyphen"/>dictions, and Privileges,</hi> tho he deſign'd to do it when it was convenient: The Reaſon was, <hi>It was inconſistent with the good of King</hi> James<hi>'s Affairs at that time.</hi> But why was not this done, when King <hi>James</hi> came to <hi>Ireland,</hi> and was at the Head of an <hi>Iriſh</hi> Army? The Reaſon that induc'd him to delay it, is here plain; <hi>He was afraid it might alienate the affecti<g ref="char:EOLhyphen"/>ons
+<pb n="14" facs="tcp:56526:9"/>
+of the Proteſtants in</hi> England, <hi>from giving a helping hand towards his Reſtoration.</hi> He did not delay it upon the account of the unjuſt<g ref="char:EOLhyphen"/>neſs of the thing it ſelf; it was from another Principle, even that of <hi>Politicks,</hi> leſt the Pro<g ref="char:EOLhyphen"/>teſtants of <hi>England</hi> ſhould be too much alarm'd with it. Thus King <hi>James</hi> and his Popiſh Clergy muſt have very low thoughts of the Wit and Senſe of the Proteſtants of <hi>England,</hi> to think they could be ſo eaſily cheated with ſuch ſilly baits, and could be hook'd in by ſo weak Pretences. No ſure; they could not be ſo ſhort-ſighted, as not to ſee through theſe Cobwebs of <hi>Romiſh</hi> Poli<g ref="char:EOLhyphen"/>ticks; and they had too many hints of their Deſigns, not to be ignorant what was really at the bottom of them.</p>
+               <p>But it ſeems at the giving in of this Me<g ref="char:EOLhyphen"/>morial, the <hi>Romiſh</hi> Clergy was become of another Opinion. They thought it not worth their while to diſſemble any longer, but that it was abſolutely fit to fall to work without any further Ceremony. They tell King <hi>James</hi> poſitively, <hi>That it's altogether needleſs to humour the Proteſtants in concerns of this nature; That all the return they made to his and his Prede<g ref="char:EOLhyphen"/>ceſſors Kindneſs and Indulgences to them, was to
+<pb n="15" facs="tcp:56526:9"/>
+Invite a Foreign Power to Invade his Throne.</hi> Here we are expreſly told, That all the late King's <hi>Kindneſs to the Protestants,</hi> was only to <hi>humour them,</hi> that is, to lay them aſleep with his Careſſes, till it was time to give the Blow, by reſtoring the <hi>Roman</hi>-Catholick Religion, and the <hi>Roman</hi>-Catholick Clergy to their Churches, Livings, <hi>&amp;c.</hi> But this is not all; Theſe Gentlemen tell us by way of an <hi>Inu<g ref="char:EOLhyphen"/>endo,</hi> That all the Privileges the Proteſtants enjoyed by the Laws of the Kingdom, were indeed no more, but <hi>King James's and his Pre<g ref="char:EOLhyphen"/>deceſſor's their manifold Condeſcentions and Indul<g ref="char:EOLhyphen"/>gences to them:</hi> So that inſtead of Laws for the Security of our Religion, we were in the opinion of the <hi>Romiſh</hi> Clergy, obliged only to the Condeſcention of our Kings for our peaceable Enjoyment of it: And as all <hi>Favours</hi> may be revoked upon the ingratitude of them on whom they are beſtowed; ſo conſequently may all the Liberties and Pri<g ref="char:EOLhyphen"/>vileges of the Proteſtants of <hi>England,</hi> be re<g ref="char:EOLhyphen"/>call'd in the ſenſe of this Memorial, becauſe of the <hi>bad returns they made that King for them.</hi> I know no reaſon why they here take in King <hi>James's Royal Predeceſſors,</hi> unleſs it be to inſi<g ref="char:EOLhyphen"/>nuate ſomething againſt the Memory of King
+<pb n="16" facs="tcp:56526:10"/>
+                  <hi>Charles</hi> II. as if he and King <hi>James</hi> had been upon the ſame bottom, as to their <hi>Condeſcen<g ref="char:EOLhyphen"/>tions and Indulgences</hi> to the Proteſtants, and therein <hi>both of one Religion;</hi> which how true, we muſt refer to the Great Day, when all hidden things ſhall be laid open.</p>
+               <p>As in the former part of this Paragraph, the Givers in of this Memorial derogated from the Wiſdom of the whole Proteſtants of <hi>England,</hi> in being cheated with their ſilly Baits; So in the laſt Words of the Period above mentioned, they fall foul upon the Honeſty of thoſe Proteſtants that are upon King <hi>James</hi>'s ſide, <hi>as if they would not be diſplea<g ref="char:EOLhyphen"/>ſed, or grudg at the re-eſtabliſhment of the</hi> Romiſh <hi>Religion and Clergy in</hi> Ireland; <hi>but that notwith<g ref="char:EOLhyphen"/>ſtanding thereof, they would continue to co-operate to His Reſtoration.</hi> I am not concerned to anſwer for the Proteſtant <hi>Jacobites</hi> in <hi>England;</hi> here they have a Charge laid to their door by others engaged in the ſame Bottom with themſelves; and how true the Charge is, they and their own Conſciences know beſt: I ſhall only ſay, If it be ſo, as is here inſinua<g ref="char:EOLhyphen"/>ted, then it's no wonder they ſhould be the Horror and Hatred of all Good Men.</p>
+            </div>
+            <div type="memorial">
+               <pb n="17" facs="tcp:56526:10"/>
+               <head>MEMORIAL.</head>
+               <p>
+                  <hi>Sir,</hi> Now is the true time for Your Maje<g ref="char:EOLhyphen"/>ſty to accompliſh that Glorious Work: It is not likely that hereafter any more eaſie or better opportunity will happen for it, than whilſt we have the happy Enjoyment of Your Majeſties Preſence amongſt us: For it is reaſonably to be apprehended, that the Dif<g ref="char:EOLhyphen"/>ficulties to be ſurmounted in ſo godly a De<g ref="char:EOLhyphen"/>ſign, will rather be increaſed than diminiſh<g ref="char:EOLhyphen"/>ed, by the continual Suggeſtions of our Ad<g ref="char:EOLhyphen"/>verſaries againſt us to Your Majeſty, when reſtored to Your Throne in <hi>England.</hi> Further<g ref="char:EOLhyphen"/>more, the very Proteſtants themſelves can<g ref="char:EOLhyphen"/>not in their hearts chuſe but applaud, and judg it in the main to be a neceſſary effect of Royal Bounty and Iuſtice, that thoſe Li<g ref="char:EOLhyphen"/>vings, Churches, and Prerogatives, which were taken away from the <hi>Roman</hi>-Catholick Clergy by Proteſtant Kings and Parlia<g ref="char:EOLhyphen"/>ments, ſhould now, after ſo many Years Sufferings, be reſtored back unto them by a <hi>Roman</hi>-Catholick King, with the Concurrence of a <hi>Roman</hi>-Catholick Parliament; were it for no other Motive, than to gratifie Your <hi>Roman</hi>-Catholick Subjects of this Kingdom,
+<pb n="18" facs="tcp:56526:11"/>
+who have ſo eminently ſignalized their Loy<g ref="char:EOLhyphen"/>alty, Allegiance, and conſtant good Zeal to aſſert with their Lives and Fortunes, Your Majeſties Rights, in a time when Prote<g ref="char:EOLhyphen"/>ſtants and Sectaries, nay alſo the chief, and moſt part of the Proteſtant Clergy, did not ſtick to ſtir up and bring in an Invaſion, and join hands with Your Enemies againſt You.</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>In the beginning of this <hi>Paragraph,</hi> they ſeem unwillingly to tax the Proteſtants that are on King <hi>James</hi>'s ſide, with what is indeed no Crime, but a Duty, <hi>viz. Their Suggeſtions to him in caſe of his Reſtoration, againſt ſo godly a work, as the reſtoring the</hi> Romiſh <hi>Religion and Clergy.</hi> I confeſs this is a Compliment ſome of them do ſcarce deſerve; and which is ex<g ref="char:EOLhyphen"/>preſly contradicted by what was ſaid in the former part of this ſame <hi>Memorial,</hi> in that, That <hi>they would not be diſpleaſed, nor grudg at the re-eſtabliſhment of the</hi> Romiſh <hi>Religion and Clergy in</hi> Ireland. And it's a queſtion which of the two Inſinuations are moſt natural, and moſt conſequential to the Principles and Pra<g ref="char:EOLhyphen"/>ctices of the Proteſtant <hi>Jacobites.</hi>
+               </p>
+               <p>
+                  <pb n="19" facs="tcp:56526:11"/>What a ridiculous piece of ſtuff is this! <hi>That the Proteſtants themſelves will applaud in the main, that neceſſary effect of Royal Bounty in a</hi> Roman-<hi>Catholick King's reſtoring back to the</hi> Ro<g ref="char:EOLhyphen"/>man <hi>Catholicks, what a Proteſtant King and Par<g ref="char:EOLhyphen"/>liament had taken from them in</hi> Ireland. At the ſame rate, and by the ſame parity of Reaſon, what a Proteſtant King and Parliament has taken away from the <hi>Roman</hi>-Catholicks in <hi>England,</hi> ſhould be now reſtored them by a <hi>Roman</hi>-Catholick King, when he comes back to the Throne of <hi>England.</hi> Indeed we have no reaſon to doubt, but as the Reaſon is the ſame, ſo the Manner of acting would be the ſame in both Kingdoms; which is fairly enough hinted in the Words themſelves.</p>
+               <p>How eminently they have ſignaliz'd their Loyalty and Allegiance to King <hi>James</hi> in this Juncture, their Bravery and inimitable Cou<g ref="char:EOLhyphen"/>rage have evidenced with a Witneſs. The truth is, it's hard to ſay, Whether King <hi>James</hi> be leſs oblig'd to the Valour of the <hi>Iriſh,</hi> or they to his Conduct: I am of Opinion, They will not be willing to try their Fortune again, under ſuch a General, nor He to try His, with ſuch Soldiers: And ſo there's no<g ref="char:EOLhyphen"/>thing loſt in point of Gratitude on either hand.</p>
+            </div>
+            <div type="memorial">
+               <pb n="20" facs="tcp:56526:12"/>
+               <head>MEMORIAL.</head>
+               <p>What greater Miſchief or Villany than this can be apprehended from them! For not to ſpeak here of the Malicious endeavours formerly uſed in their Parliament, to ex<g ref="char:EOLhyphen"/>clude You from Your Right of Inheriting the Crown, or of the Treacherous Plots and Deſigns contrived by ſome of them, for to take away Your Majeſties Life, and that of Your Royal Brother the late King of Bleſſed Me<g ref="char:EOLhyphen"/>mory: And after all this, Is it reaſonable to repoſe any Confidence in them, or to expect that ever they will prove real and true unto You upon occaſion of helping You to regain Your Crown? Or certainly if they ſhould chance to give any ſuch Encouragement, it will not proceed from a real Love to Your Royal Perſon, but that they find it neceſſary for their Temporal Intereſts, which they now experience to be in great danger, and much prejudic'd by their late Rebellious De<g ref="char:EOLhyphen"/>fection. Conſequently, as far as Your Re<g ref="char:EOLhyphen"/>turn may avail for the Preſervation and Ad<g ref="char:EOLhyphen"/>vantage of thoſe their Intereſts, they may concur thereunto, without regarding any Eſtabliſhment whatever, that You make in
+<pb n="21" facs="tcp:56526:12"/>
+this Kingdom, in favour of the <hi>Roman</hi>-Catho<g ref="char:EOLhyphen"/>lick Religion and Clergy; for they do not doubt, but that Your Majeſty being of the <hi>Roman</hi>-Catholick Religion, intends to eſta<g ref="char:EOLhyphen"/>bliſh the ſame, and to reſtore the Clergy to their Livings, Churches, and full Iuriſdi<g ref="char:EOLhyphen"/>ction, in this Your Catholick Kingdom.</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>As to ſome of the Proteſtants <hi>Deſign of old to exclude King</hi> James <hi>from inheriting the Crown,</hi> as is here mentioned; The <hi>Bill of Excluſion,</hi> as it was the reſult of the Coun<g ref="char:EOLhyphen"/>ſels of thoſe who ſaw no other way at that time to ſave <hi>Us</hi> from Popery and Slavery; ſo it's a queſtion, Whether it had not been better for that Prince that that Bill had taken effect. For it ſeems to me, a far greater misfortune, to be once upon a Throne, and to put a neceſſity on the Nation to dethrone him, than never to have been ſuffer'd once to ſit down upon it; And I believe that un<g ref="char:EOLhyphen"/>happy Prince thinks ſo himſelf, by this time. So that the Papiſts have no great reaſon to blame the Proteſtants upon that head.</p>
+               <p>As to the Treacherous Plots and Deſigns contriv'd by ſome of the Proteſtants to <hi>take
+<pb n="22" facs="tcp:56526:13"/>
+away the life of King</hi> James, <hi>and of his Royal Brother,</hi> Alas! We all know where this Plot was coyn'd; who they were that brought it upon the Stage; and to what end.</p>
+               <p>This Proteſtant Plot here hinted at, was thought upon by the Popiſh Party then at Court, as the only proper means to ſtifle for good and all the <hi>Popiſh one;</hi> And what <hi>Villanies, Perjuries, Subornations, Lyes and Murthers,</hi> were put in practice at that time, none in <hi>England</hi> can be ignorant. It could be wiſh'd, That for the honour of the Nation, and for the honour both of the <hi>Bar,</hi> and of the <hi>Bench,</hi> theſe things were buried in perpetual ob<g ref="char:EOLhyphen"/>livion.</p>
+               <p>The Inſinuation at the end of this Para<g ref="char:EOLhyphen"/>graph, That <hi>if thoſe Proteſtants ſhall help King</hi> James <hi>to regain his Crowns, it will proceed only from a motive of temporal Intereſt;</hi> I believe may be very true in ſome ſenſe. For certainly no<g ref="char:EOLhyphen"/>thing but a <hi>falſe ſhew of temporal Intereſt</hi> can ever prevail with a Proteſtant to bring back King <hi>James;</hi> ſince he muſt make account to loſe thereby all <hi>ſpiritual Intereſts,</hi> viz. thoſe of his own Religion, Conſcience and immortal Soul; And theſe he muſt neceſſarily reſolve to part with at the very moment he brings
+<pb n="23" facs="tcp:56526:13"/>
+back that Prince to the <hi>Engliſh</hi> Throne. But yet it's but a falſe ſhew of temporal Intereſt at the beſt; For not only the Ruine of his Religion, but that of his <hi>Property and Liberty</hi> muſt attend King <hi>James</hi> his Return. It's then we muſt ſubmit our ſelves either to a <hi>French Yoak,</hi> or a <hi>Yoak after a French Model;</hi> And then farewell for ever the Liberties and Properties of the Subjects of <hi>England.</hi>
+               </p>
+               <p>That theſe Proteſtants (who the Memo<g ref="char:EOLhyphen"/>rial confeſſes from a temporal Intereſt only would help King <hi>James</hi> to regain his Crown) <hi>ſhould have no regard to any Eſtabliſhment He ſhould make in</hi> Ireland <hi>in favour of the Roman-Catholick Religion and Clergy:</hi> I hope it's not true of them. And if it be ſo, They are the unhappieſt and moſt hateful Wretches upon Earth, as being willing for their trifling In<g ref="char:EOLhyphen"/>tereſts to ſacrifice a whole Kingdom to <hi>Rome.</hi>
+               </p>
+            </div>
+            <div type="memorial">
+               <head>MEMORIAL.</head>
+               <p>What worſe Reſentments can they receive of Your Majeſty's putting that Intention now abſolutely in Effect, than they may of what other glorious things you have ſet<g ref="char:EOLhyphen"/>led in this Kingdom as means thereunto, by making Catholick Corporations and Ma<g ref="char:EOLhyphen"/>giſtrates,
+<pb n="24" facs="tcp:56526:14"/>
+and Iudges, by rendring Roman-Catholicks capable of all manner of Offices and Employments, by putting the Govern<g ref="char:EOLhyphen"/>ment Civil and Military into the hands of the Roman-Catholicks, by breaking that unjuſt Act of Settlement, and reſtoring the Catholick Proprietors to their Ancient Eſtates.</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>Here the Romiſh Clergy tell the World plainly, That <hi>the Reſtoring the Romiſh Religion, and the Romiſh Clergy to their Churches and Livings, merits no greater Reſentment from the Proteſtants, than the making Roman-Catholick Corporations and Magiſtrates and Judges, the rendring all Ro<g ref="char:EOLhyphen"/>man-Catholicks capable of Offices and Employments, by putting the Government Civil and Military in their hands.</hi> I confeſs we are oblig'd to them for telling us ſo; Eſpecially conſidering that in the laſt Reign ſome People look'd upon theſe <hi>laſt Innovations</hi> to be no great buſineſs; and were willing to concur, or at leaſt tamely to conſent to them. We ſee what a ſenſe the Papiſts themſelves had of theſe Violations of our Law: It was all one in their Eyes, as a <hi>Re-eſtabliſhment of the Romiſh
+<pb n="25" facs="tcp:56526:14"/>
+Religion and Clergy,</hi> which ſome of the Pro<g ref="char:EOLhyphen"/>teſtants themſelves would not believe: And indeed the wiſer part of the Proteſtants rhought the one was as juſt as the other. And that the Royal Prerogative might be wreſted by Corrupt Judges and Lawyers then in pay, to infer a power to do both.</p>
+            </div>
+            <div type="memorial">
+               <head>MEMORIAL.</head>
+               <p>Theſe are Changes of far greater difficul<g ref="char:EOLhyphen"/>ties, and more apt to exaſperate the Prote<g ref="char:EOLhyphen"/>ſtants of <hi>England;</hi> and yet without regarding their Diſpleaſure, Your Majeſty, praiſed be God, was ſucceſsfully prevail'd on to compaſs theſe Glorious Alterations. How then can it be thought reaſonable that the Conſidera<g ref="char:EOLhyphen"/>tion of diſpleaſing or exaſperating the ſaid Proteſtants of <hi>England,</hi> ſhould influence upon Your Majeſty to poſtpone or let ſlip this pre<g ref="char:EOLhyphen"/>ſent Opportunity of Re-eſtabliſhing Your Roman-Catholick Clergy of this Kingdom in the full manner aforementioned?</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>If the late Circumſtances wherein King <hi>James</hi> was in <hi>Ireland,</hi> was ſo favourable an op<g ref="char:EOLhyphen"/>portunity to Re-eſtabliſh the Roman-Ca<g ref="char:EOLhyphen"/>tholick
+<pb n="26" facs="tcp:56526:15"/>
+Religion in that Kingdom, as the <hi>Memorial</hi> affirms, Then much more was the Circumſtances he was in here in <hi>England,</hi> ſome two years ago, a favourable Opportu<g ref="char:EOLhyphen"/>nity to Re-eſtabliſh the Romiſh-Catholick Religion in this Kingdom. In <hi>Ireland</hi> King <hi>James</hi>'s Power was only confined to that Iſland, and he was deſtitute of the Sup<g ref="char:EOLhyphen"/>port and Aſſiſtance of the Two other King<g ref="char:EOLhyphen"/>doms that had been once <hi>His.</hi> He had, when in <hi>Ireland,</hi> a powerful Prince poſ<g ref="char:EOLhyphen"/>ſeſt of theſe two other Kingdoms, and of a part of <hi>Ireland</hi> it ſelf, who was ready to beat him out of the reſt, at the Head of a brave well-diſciplin'd Army, while King <hi>James</hi> had no reaſon to hope any great things from His, made up of Cowardly Ill-diſci<g ref="char:EOLhyphen"/>plin'd, and as ill-pay'd <hi>Iriſhes.</hi> King <hi>James</hi>'s Circumſtances were far better two years ago, being Maſter of Three Kingdoms, and of a brave and numerous Army, and no body to oppoſe him. So that if his <hi>Will was the ſame</hi> as to the Re-eſtabliſhment of the Romiſh Religion, (as no body doubts but it was) <hi>Then his Power was much greater two years ago, when in</hi> England, <hi>than two or three months ago when in</hi> Ireland, <hi>at the time of preſenting him this
+<pb n="27" facs="tcp:56526:15"/>
+Memorial.</hi> Thus that Unfortunate, Miſgui<g ref="char:EOLhyphen"/>ded Prince was in all his Conduct <hi>wiſe too late,</hi> though to the great happineſs of theſe Three Kingdoms, as the Event has prov'd.</p>
+            </div>
+            <div type="memorial">
+               <head>MEMORIAL.</head>
+               <p>We muſt confeſs, that ſuch an Intire Eſta<g ref="char:EOLhyphen"/>bliſhment of the Roman-Catholick Clergy in <hi>England,</hi> would perhaps prove very difficult, and provoke the Indignation of the Prote<g ref="char:EOLhyphen"/>ſtants in a high meaſure, becauſe it is con<g ref="char:EOLhyphen"/>trary to the Perſuaſion generally held by the People there, who though never ſo diffe<g ref="char:EOLhyphen"/>rent amongſt themſelves in their Tenets, yet agree together in bearing ſo implacable an averſion to the Roman-Catholick Religi<g ref="char:EOLhyphen"/>on and Clergy, that it is not to be expected they would ever concur in their Parlia<g ref="char:EOLhyphen"/>ments thereunto: But the Caſe is quite o<g ref="char:EOLhyphen"/>therways in this Your Majeſty's Kingdom of <hi>Ireland;</hi> for the People here being general<g ref="char:EOLhyphen"/>ly Roman-Catholicks, incomparably exceed<g ref="char:EOLhyphen"/>ing in number all Sectaries and Prote<g ref="char:EOLhyphen"/>ſtants, covet nothing more, than to have their own Roman-Catholick Clergy Re-eſta<g ref="char:EOLhyphen"/>bliſhed amongſt them in thoſe Churches and Livings that the Piety and Devotion of
+<pb n="28" facs="tcp:56526:16"/>
+their Anceſtors, time out of mind, conferr'd upon them for the Service and Honour of God, and for their decent Subſiſtence; and reſtor'd to the full Exerciſe of their Spiritual Iuriſ<g ref="char:EOLhyphen"/>diction, and enjoyment of their Privileges.</p>
+            </div>
+            <div type="reflections">
+               <head>REFLECTIONS.</head>
+               <p>We find the Romiſh Clergy do here uſher in the difficulty of Re-eſtabliſhing the Romiſh Religion in <hi>England,</hi> with a <hi>perhaps;</hi> And they will not allow it to be impoſſible, but only that it <hi>would prove difficult.</hi> I make no doubt, but if things were at this day in <hi>England</hi> upon the ſame foot they were in two years ago, we ſhould have heard of no <hi>diffi<g ref="char:EOLhyphen"/>culty</hi> in this matter: It was then, in their opinion, the eaſieſt thing of a thouſand to Re-eſtabliſh the Roman-Catholick Religion in <hi>England:</hi> And by all their Actions and words they expreſs ſo much. I will not de<g ref="char:EOLhyphen"/>termine, how far it was poſſible to bring <hi>England</hi> in the laſt Reign, to comply with, and embrace Popery. But this I may ſafely ſay, That the Debaucheries with which the Nation was poiſon'd in King <hi>Charles</hi>'s Reign, had laid them open to any Change in Reli<g ref="char:EOLhyphen"/>gion. We all know <hi>Atheiſm</hi> is the faireſt In<g ref="char:EOLhyphen"/>troduction
+<pb n="29" facs="tcp:56526:16"/>
+to <hi>Popery:</hi> And he that's an <hi>Atheiſt</hi> to day, may eaſily be a <hi>Papiſt</hi> to morrow, eſpeci<g ref="char:EOLhyphen"/>ally if his Intereſt concur in the Change. We ſaw how much Popery gain'd every day, and how many men, and that of the firſt Rank, Intereſt, and the Smiles of a Court, prevail'd with to change their Religion they were brought up in, for a new one they had ne<g ref="char:EOLhyphen"/>ver taken the pains to examine further, than as to the favourableneſs of it with the King. Moreover, in <hi>France</hi> we had the example of a vaſt many Thouſand Proteſtants, who had not the Courage nor Conſtancy to reſiſt the Methods taken by the <hi>Romiſh</hi> Emiſſaries to bring them back to the Communion of <hi>Rome.</hi> And the <hi>French</hi> Proteſtants were at leaſt as Zealous in their Religion, as we in ours, and ſeem'd to be willing to venture as much for it as we. So that I cannot either confute or conſent to this laſt part of the Memorial; but muſt conclude with this; That we have reaſon to bleſs God, and pay our Thanks and Acknowledgment to the <hi>Glorious Inſtru<g ref="char:EOLhyphen"/>ment</hi> he made uſe of, by whom we are put out of fear of having our Conſtancy in the Proteſtant Religion tried, at the rate we had reaſon to expect not long ago.</p>
+               <p>
+                  <pb n="30" facs="tcp:56526:17"/>And thus I take leave of the <hi>Memorial</hi> of the <hi>Romiſh</hi> Clergy, and leave them to the diſ<g ref="char:EOLhyphen"/>appointments they have met with, both in that Kingdom and elſewhere, of all the hopes they have been ſo long a rearing up to them<g ref="char:EOLhyphen"/>ſelves; and which now are vaniſht into ſmoke, upon the appearing of our Victorious King in the Iſland, where they were to be<g ref="char:EOLhyphen"/>gin <hi>their thorough Work.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>WE live in an Age wherein ſome people have the Impudence to deny things of themſelves as clear as the Sun in its Mid-day Light. Go and enquire of the <hi>Roman</hi>-Catholicks in <hi>France,</hi> and other Popiſh Countries, they will make no bones to con<g ref="char:EOLhyphen"/>feſs freely, That two years ago, <hi>they had the greateſt Grounds poſſible to have hop'd for the Eſtabliſhment of the Catholick Religion, and the utter Extirpation of what they call Hereſie, through the Three Kingdoms of</hi> England, Scotland, <hi>and</hi> Ireland. But at the ſame time, go and enquire the opinion of ſome among our ſelves at home, that call themſelves Proteſtants, in this point they will confidently tell you, <hi>There was never any ſuch Change deſigned.</hi> Theſe people muſt either be ſtrangely ſtupid, or muſt from ſome one reaſon or other find themſelves oblig'd to diſſemble a thing that cannot, that will not be hid. The <hi>Me<g ref="char:EOLhyphen"/>morial</hi> I have before given a particular Copy of, is a proof of ſuch a Deſign, as <hi>to change Religion in</hi>
+               <pb n="31" facs="tcp:56526:17"/>
+Ireland; and ſuch a proof, as there can be no clear<g ref="char:EOLhyphen"/>er given for any thing in the world: But I have thought fit in this Poſtſcript to give another evi<g ref="char:EOLhyphen"/>dence as clear as the former; but an Evidence that proves not only a deſign to overturn the Proteſtant Religion in <hi>Ireland</hi> alone, but likewiſe in the other Two Kingdoms of this Iſland: And that is, <hi>A Me<g ref="char:EOLhyphen"/>morial given in by</hi> Monſieur <hi>the Duke of</hi> Chaulnes, <hi>Ambaſſador Extraordinary for the</hi> French <hi>King, to this preſent Pope,</hi> very ſoon after his coming to the Pa<g ref="char:EOLhyphen"/>pacy. The <hi>Memorial</hi> it ſelf is to be found in ſeve<g ref="char:EOLhyphen"/>ral of their Papers now printed at <hi>Rome</hi> and other places of <hi>Italy,</hi> on the occaſion of the preſent Tranſ<g ref="char:EOLhyphen"/>actions betwixt the Court of <hi>France,</hi> and that of <hi>Rome;</hi> and the Copy whence I take it, is the <hi>Italian Mercury of Venice, Numb.</hi> 1012. The <hi>Memorial</hi> is there mentioned at full length, and refers to a great many other Heads, than what I need here to men<g ref="char:EOLhyphen"/>tion. I ſhall only copy from the Original, thoſe parts of it that concern the Affairs of King <hi>James,</hi> or of the <hi>French</hi> King as his Ally and Confederate.</p>
+         </div>
+         <div type="memorial">
+            <head>
+               <hi>The Memorial is thus.</hi> The Memorial and Repreſentation made to our moſt Ho<g ref="char:EOLhyphen"/>ly Father the Pope, by His Excellency <hi>Charles de Albert,</hi> Duke of <hi>Chaulnes,</hi> and Peer of <hi>France,</hi> Am<g ref="char:EOLhyphen"/>baſſador Extraordinary, and Plenipotentiary from His moſt Chriſtian Majeſty, to His Holineſs, in Name and Behalf of His moſt Serene Majeſty, His Maſter.</head>
+            <p>HIS Excellency does moſt unwillingly, and with the moſt inward Grief, put His Holineſs in mind of the ſad and unhappy Conſequences that have ariſen to
+<pb n="32" facs="tcp:56526:18"/>
+the Catholick Church, by the unneceſſary and ill-tim'd miſtakes entertain'd by the late Pope <hi>Innocent 11.</hi> of the moſt Serene King his Maſter. What diſmal effects they have produc'd, all <hi>Europe</hi> feels at this day with regret.</p>
+            <p>The moſt Serene King his Maſter has done all in him lies to deſerve the name of the Eldeſt Son of the Church. And by breaking into pieces that <hi>Hydra</hi> of Hereſie, which had in his own Kingdom for above an Age, tram<g ref="char:EOLhyphen"/>pled upon all that was Sacred, he might have juſtly ex<g ref="char:EOLhyphen"/>pected better Returns of his Zeal for the Catholick Re<g ref="char:EOLhyphen"/>ligion, than he did meet with from the then Head of the Church. It was not only in his own Kingdom, that his moſt Serene Maſter did uſe his utmoſt Power and Inte<g ref="char:EOLhyphen"/>reſt to root out Hereſie, and to eſtabliſh the true Ancient, Catholick, and Apoſtolick Religion; but his Aims and In<g ref="char:EOLhyphen"/>fluence went farther; and unleſs the late Pope <hi>Inno<g ref="char:EOLhyphen"/>cent 11.</hi> had wilfully obſtructed his Deſigns by an unti<g ref="char:EOLhyphen"/>mous and needleſs Breach betwixt him and the Crown of <hi>France,</hi> the ſtate of Chriſtendom, and of the Catholick Church, had been far better than it is at this day. All this his Excellency does not repreſent to his Holineſs out of any deſign to caſt Duſt on the Aſhes of his Predeceſſor; for as the moſt Chriſtian King his Maſter ſuffered as much as ever Prince in his Circumſtances and Quality did, from the late Pope, and that without doing any action unbeco<g ref="char:EOLhyphen"/>ming a true Eldeſt Son of the Church towards the common Father and Head thereof; ſo he reſolves for ever to ba<g ref="char:EOLhyphen"/>niſh from himſelf, and bury in oblivion the remembrance of theſe things.</p>
+            <p>
+               <hi>Here the</hi> French <hi>Ambaſſadour does very fairly confeſs as a great Honour to his Maſter,</hi> That it was not in his own Kingdom only, that he us'd his Intereſt to root out Hereſie; but that his Aims and Influence went further; and if the late Pope's breach with him
+<pb n="33" facs="tcp:56526:18"/>
+had not hindered, The ſtate of the Catholick Church had been far better than it is now at this day. <hi>What can be more plain than this? And where could the</hi> French Deſigns and Influence to root out Hereſie, <hi>be more effectual and more probable to lie, than in</hi> England, <hi>at that time under the Reign of a Prince as zealous a</hi> Romaniſt <hi>as himſelf, and in the neareſt conjunction with him in all ties of</hi> Friendſhip and Alliance.</p>
+            <p>
+               <hi>The reſt of the</hi> Memorial <hi>contains a great many other particulars relating to the Pretenſions of the</hi> French <hi>King, and Diſputes between him and the late Court of</hi> Rome: <hi>And therefore it's needleſs here to mention them. Only in the end He has this other Article relating to the Affairs of</hi> England, <hi>which runs thus.</hi>
+            </p>
+            <p>His Excellency humbly intreats his Holineſs to conſi<g ref="char:EOLhyphen"/>der in his Fatherly Care and Zeal, the horrid and in<g ref="char:EOLhyphen"/>expreſſible prejudice the Catholick Church has received by the fatal diſappointment all her Sons have met with in the misfortune of his Britannick Majeſty; And that juſt at the very inſtant of time, we were to expect all good and great things for the Catholick Church from that King's Zeal and Affections to it. So that unleſs ſpeedy courſe be taken for that King's Re-eſtabliſhment, not only all the joint Deſigns for the ſuppreſſion of He<g ref="char:EOLhyphen"/>reſie will fall to the ground; but the Catholicks of thoſe Kingdoms will be in the ſaddeſt condition poſſible. And the Holy Church depriv'd of thoſe great Kingdoms, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Here is as fair a Confeſſion as ever was made</hi> of a diſappointment the Romiſh Church met with in the late King's Misfortune, and how great things that Party expected from King <hi>James</hi> his Zeal for the <hi>Romiſh</hi> Church: and in fine, of joint Deſigns for the ſuppreſ<g ref="char:EOLhyphen"/>ſion
+<pb n="34" facs="tcp:56526:19"/>
+of Hereſie. <hi>And after this, I would fain know who can doubt of our Intended Ruine, and that of our Religion, if the late happy Revolution had not fal<g ref="char:EOLhyphen"/>len out?</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>BOOKS Printed for <hi>Richard Baldwin.</hi>
+            </head>
+            <p>A True Relation of the Cruelties and Barbarities of the <hi>French,</hi> upon the <hi>Engliſh</hi> Priſoners of War. Being a Journal of their Travels from <hi>Dinan</hi> in <hi>Britany,</hi> to <hi>Thoulon</hi> in <hi>Provence;</hi> and back a<g ref="char:EOLhyphen"/>gain. With a Deſcription of the Situation, and Fortifications of all the Eminent Towns upon the Road, and their Diſtance. Of their Priſons and Hoſpitals, and the number of men that died under their Cruelty: With the Names of many of them, and the Places of their Deaths and Burials: With an Account of the great Charity and Sufferings of the Poor Proteſtants of <hi>France:</hi> And other material Things that hapned upon the way Faithfully and Impartially Performed by <hi>Richard Strut<g ref="char:EOLhyphen"/>ton,</hi> being an Eye-witneſs, and Fellow-ſufferer.</p>
+            <p>The ſecret Hiſtory of the Dutcheſs of <hi>Portſmouth:</hi> Giving an Ac<g ref="char:EOLhyphen"/>count of the Intreagues of the Court, during her Miniſtry. And of the Death of K. C. II.</p>
+            <p>The Memoirs of Monſieur <hi>Deagant;</hi> containing the moſt ſecret Tranſactions and Affairs of <hi>France,</hi> from the Death of <hi>Henry</hi> IV. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the beginning of the Miniſtry of the Cardinal <hi>de Rioblieu.</hi> To which is added, A Particular Relation of the Archbiſhoprick of <hi>Embrun</hi>'s Voy<g ref="char:EOLhyphen"/>age into <hi>England,</hi> and of his Negotiation for the Advancement of the Roman-Catholick Religion here; together with the Duke of <hi>Bucking<g ref="char:EOLhyphen"/>ham</hi>'s Letters to the ſaid Archbiſhop about the Progreſs of that Af<g ref="char:EOLhyphen"/>fair: Which hapned the laſt Years of King <hi>James</hi> I. his Reign. Faith<g ref="char:EOLhyphen"/>fully Tranſlated out of the <hi>French</hi> Original.</p>
+            <p>The Cabinet Open'd: or, The Secret Hiſtory of the Amours of Madam <hi>de Maintenon,</hi> with the <hi>French</hi> King. Tranſlated from the <hi>French</hi> Copy.</p>
+            <p>The Character of a Trimmer. His Opinion of. I. The Laws and Government. II Proteſtant Religion. III. The Papiſts. IV. Foreign Affairs. By the Honourable Sir <hi>W. Coventry.</hi> The Third Edition carefully Corrected, and cleared from the Errors of the Firſt Im<g ref="char:EOLhyphen"/>preſſion.</p>
+            <p>An Impartial Relation of the Illegal Proceedings againſt St. <hi>Mary Magdalen</hi> Colledge in <hi>Oxon,</hi> in the Year of our Lord 1687. Contain<g ref="char:EOLhyphen"/>ing only Matters of Fact as they occurred. The Second Edition. To which is added the moſt Remarkable Paſſages omitted in the former. Collected by a Fellow of the ſaid Colledge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
